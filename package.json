@@ -23,7 +23,7 @@
     "strapi-plugin-upload": "3.6.8",
     "strapi-plugin-users-permissions": "3.6.8",
     "strapi-provider-upload-cloudinary": "^3.6.8",
-    "strapi-utils": "3.6.8"
+    "strapi-utils": "^3.6.8"
   },
   "author": {
     "name": "A Strapi developer"
